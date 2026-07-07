@@ -11,3 +11,5 @@ Presenters:
 
 Files to download will include survey data and processing scripts for each of the three vehicles.
 
+You may also want to check out MB-System's extensive tutorial, including YouTube videos, available at GitHub here https://github.com/dwcaress/MB-System-Tutorial/ (description at https://www.mbari.org/technology/mb-system/tutorials/ )
+
