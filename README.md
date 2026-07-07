@@ -5,9 +5,9 @@ The MB-System workflows we use to process and display seafloor multibeam survey 
 
 Presenters:
 
-- Jenny Paduan, Senior Research Specialist, Seafloor Mapping Team, MBARI (https://www.mbari.org/team/seafloor-mapping/)
+- [Jennifer Paduan](https://www.mbari.org/person/jennifer-b-paduan/), Senior Research Specialist, [Seafloor Mapping Team](https://www.mbari.org/technology/seafloor-mapping/), MBARI
 
-- Eve Lundsten, Research Specialist, MBARI, Continental Margin Processes Team (https://www.mbari.org/team/continental-margin-processes/)
+- [Eve Lundsten](https://www.mbari.org/person/eve-lundsten/), Research Specialist, [Continental Margin Processes Team](https://www.mbari.org/team/continental-margin-processes/), MBARI
 
 
 You may also want to check out MB-System's extensive tutorial, including YouTube videos, available at GitHub here https://github.com/dwcaress/MB-System-Tutorial/ (description at https://www.mbari.org/technology/mb-system/tutorials/ )
