@@ -1,6 +1,7 @@
 # MB-System-OCEANS26-Tutorial
 **Bring your laptop with MB-System installed, if possible, and bring a 3-button mouse. We will have 3 computers available with MB-System installed, if you are unable to install MB-System on your computer.**
-**Sample data sets are in progress. Please check back at end of business on Friday. **
+
+**Sample data sets are in progress. Please check back at end of business on Friday.**
 
 This repository hosts files to be used during the MB-System tutorial presented at the OCEANS 2026 Conference in Monterey, California, United States on September 21, 2026. 
 
