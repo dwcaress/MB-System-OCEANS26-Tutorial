@@ -1,13 +1,15 @@
 # MB-System-OCEANS26-Tutorial
 This repository hosts files to be used during the MB-System tutorial presented at the OCEANS 2026 Conference in Monterey, California, United States on September 21, 2026. 
 
-The MB-System workflows we use to process and display seafloor multibeam survey data will be discussed using scripts we have developed for three different Autonomous Underwater Vehicles (AUVs): an MBARI operated Dorado class AUV mapping with a Teledyne T-50 400 kHz sonar, the WHOI operated vehicle AUV _Sentry_, and the Schmidt Ocean Institute operated Hugin AUV _The Childlike Empress_ mapping with a Kongsberg EM2040 sonar. Some of the MB-System programs will be demonstrated and participants can practice during the class. Example data for the tutorial will include survey data and processing scripts for each of the three vehicles...please stay tuned; they will all be available for download here by about 01 September!
+The MB-System workflows we use to process and display seafloor multibeam survey data will be discussed using scripts we have developed for three different Autonomous Underwater Vehicles (AUVs): an MBARI operated Dorado class AUV mapping with a Teledyne T-50 400 kHz sonar, the WHOI operated vehicle AUV _Sentry_, and the Schmidt Ocean Institute operated Hugin AUV _The Childlike Empress_ mapping with a Kongsberg EM2040 sonar. Some of the MB-System programs will be demonstrated and participants can practice during the class. Example data for the tutorial will include survey data and processing scripts for each of the three vehicles...please stay tuned; they will all be available for download here by about 18 September!
 
 Presenters:
 
 - [Jennifer Paduan](https://www.mbari.org/person/jennifer-b-paduan/), Senior Research Specialist, [Seafloor Mapping Team](https://www.mbari.org/technology/seafloor-mapping/), MBARI
 
 - [Eve Lundsten](https://www.mbari.org/person/eve-lundsten/), Research Specialist, [Continental Margin Processes Team](https://www.mbari.org/team/continental-margin-processes/), MBARI
+
+- [David Caress] (https://www.mbari.org/person/dave-caress/), Principle Engineer, [Seafloor Mapping Team](https://www.mbari.org/technology/seafloor-mapping/), MBARI
 
 
 You may also want to check out MB-System's extensive tutorial, including YouTube videos, available at GitHub here https://github.com/dwcaress/MB-System-Tutorial/ (description at https://www.mbari.org/technology/mb-system/tutorials/ )
