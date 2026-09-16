@@ -3,7 +3,7 @@ This repository hosts files to be used during the MB-System tutorial presented a
 
 The MB-System workflows we use to process and display seafloor multibeam survey data will be discussed using scripts we have developed for three different Autonomous Underwater Vehicles (AUVs): an MBARI operated Dorado class AUV mapping with a Teledyne T-50 400 kHz sonar, the WHOI operated vehicle AUV _Sentry_, and the Schmidt Ocean Institute operated Hugin AUV _The Childlike Empress_ mapping with a Kongsberg EM2040 sonar. Some of the MB-System programs will be demonstrated and participants can practice during the class. Example data for the tutorial will include survey data and processing scripts for each of the three vehicles...please stay tuned; they will all be available for download here by about 18 September!
 
-Bring your laptop with MB-System installed, if possible, and bring a 3-button mouse. We will have 3 computers available with MB-System installed, if you are unable to install MB-System on your computer.
+**Bring your laptop with MB-System installed, if possible, and bring a 3-button mouse. We will have 3 computers available with MB-System installed, if you are unable to install MB-System on your computer.**
 
 Presenters:
 
