@@ -9,7 +9,7 @@ Presenters:
 
 - [Eve Lundsten](https://www.mbari.org/person/eve-lundsten/), Research Specialist, [Continental Margin Processes Team](https://www.mbari.org/team/continental-margin-processes/), MBARI
 
-- [David Caress] (https://www.mbari.org/person/dave-caress/), Principle Engineer, [Seafloor Mapping Team](https://www.mbari.org/technology/seafloor-mapping/), MBARI
+- [David Caress](https://www.mbari.org/person/dave-caress/), Principle Engineer, [Seafloor Mapping Team](https://www.mbari.org/technology/seafloor-mapping/), MBARI
 
 
 You may also want to check out MB-System's extensive tutorial, including YouTube videos, available at GitHub here https://github.com/dwcaress/MB-System-Tutorial/ (description at https://www.mbari.org/technology/mb-system/tutorials/ )
