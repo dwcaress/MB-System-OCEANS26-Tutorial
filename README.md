@@ -35,7 +35,7 @@ For assistance and advice you can join the MB-System User Discussion List
 
 Google Drive links to sample datasets:
 
-	<img width="4142" height="4121" src="ZTopoSlopeNav.jpg" />
+	!(ZTopoSlopeNav.jpg)
    MBARI Mapping AUV: https://drive.google.com/file/d/1CDTsTMylS65rSRw-CFSSERe5OI6uDhV4/view?usp=share_link
 
 	<img width="4786" height="3793" src="ZTopoSlopeNav-Hugin.jpg" />
