@@ -1,6 +1,10 @@
-# MB-System OCEANS26 Tutorial
-# OCEANS 2026 Conference in Monterey, California, United States 
-September 21, 2026. 
+# OCEANS 2026 Conference 
+# MB-System Tutorial
+Monterey, California, United States 
+September 21, 2026
+
+8:30 am to 12:30 pm
+Ironwood Room on 3rd floor of the Portola Hotel
 
 This is a half-day tutorial on the “nuts and bolts” of using the MB-System software package for processing multibeam sonar data collected on Autonomous Underwater Vehicles (AUVs). 
 
