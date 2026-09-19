@@ -1,7 +1,21 @@
 # MB-System-OCEANS26-Tutorial
 **Bring your laptop with MB-System installed, if possible, and bring a 3-button mouse. We will have 3 computers available with MB-System installed, if you are unable to install MB-System on your computer.**
 
-**Sample data sets are in progress. Please check back at end of business on Friday.**
+**Sample Datasets**
+We have prepared three sample datasets composed of 400 kHz multibeam data collected during AUV surveys. Each has been compressed into a single zip file that unpacks into multiple subdirectories with both raw and fully processed example data. These are available from a Google Drive through a link given below.
+
+1. Partial data from MBARI Mapping AUV mission 20260308m1
+   Google Drive link: https://drive.google.com/file/d/1CDTsTMylS65rSRw-CFSSERe5OI6uDhV4/view?usp=share_link
+Teledyne T50 400 kHz multibeam data collected on a Monterey Bay Aquarium Research Institute (MBARI) Dorado class Autonomous Underwater Vehicle (AUV) during expedition SO318 on FS Sonne offshore Southern California on March 8, 2026. The Dorado Mapping AUVs were designed, built, and are operated by MBARI. These data do not encompass the entire survey, and do not include sidescan and subbottom profiler data also collected during the mission.
+
+SO318 was led by Chief Scientist Gerhard Bohrmann of MARUM at the University of Bremen in Bremen Germany. The expedition report can be accessed at:
+	https://doi.org/10.48433/cr_so318
+
+There are three subdirectories:
+	raw/ - Raw logged multibeam data and example MB-System processing workflow in the file process.cmd
+	proc/ - Complete package of processed data
+	MissionPlanning/ - ship multibeam bathymetry grid used for mission planning, the MB-System route file defining the survey mission, and a script file mission.cmd used to generate a Dorado AUV survey mission.
+
 
 This repository hosts files to be used during the MB-System tutorial presented at the OCEANS 2026 Conference in Monterey, California, United States on September 21, 2026. 
 
