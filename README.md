@@ -35,13 +35,13 @@ For assistance and advice you can join the MB-System User Discussion List
 
 Google Drive links to sample datasets:
 
-	<img width="4142" height="4121" alt="ZTopoSlopeNav" src="https://github.com/user-attachments/assets/124ecd66-8078-46b2-ae9c-0e3d306801aa" />
+	<img width="4142" height="4121" alt="ZTopoSlopeNav" src="https://github.com/user-attachments/assets/1b1f6888-8990-4245-ad65-8a5429a67747" />
    MBARI Mapping AUV: https://drive.google.com/file/d/1CDTsTMylS65rSRw-CFSSERe5OI6uDhV4/view?usp=share_link
 
-	<img width="4786" height="3793" alt="ZTopoSlopeNav-Hugin" src="https://github.com/user-attachments/assets/9359ad6b-a2ba-44ac-8e6a-1ecaa27b86ef" />
+	<img width="4786" height="3793" alt="ZTopoSlopeNav-Hugin" src="https://github.com/user-attachments/assets/02d6009d-c54d-41fa-87a3-f89f428cc831" />
    SOI Hugin AUV The Childlike Empress: https://drive.google.com/file/d/1CDTsTMylS65rSRw-CFSSERe5OI6uDhV4/view?usp=share_link
 
-	<img width="4253" height="4594" alt="ZTopoSlopeNav-Sentry" src="https://github.com/user-attachments/assets/280b7a2f-4b78-4db9-91b1-cb727ae956da" />
+	<img width="4253" height="4594" alt="ZTopoSlopeNav-Sentry" src="https://github.com/user-attachments/assets/61ba095f-0f1f-4d48-9905-b1c68d777ac3" />
    WHOI AUV Sentry: https://drive.google.com/file/d/1-CJXv0o50TdJhlDW5lKZfWQa2Vfuh-rL/view?usp=share_link
 
 Presenters:
