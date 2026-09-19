@@ -1,5 +1,11 @@
 # MB-System-OCEANS26-Tutorial
-**Bring your laptop with MB-System installed, if possible, and bring a 3-button mouse. We will have 3 computers available with MB-System installed, if you are unable to install MB-System on your computer.**
+
+MB-System is an open source software package for the processing and display of seafloor mapping data. MB-System originated as a US National Science Foundation funded project in 1992 intended to provide a capability to process multibeam data collected on ships in the US academic research fleet. In recent years the development focus has been on processing data collected on submerged platforms such as Remotely Operated Vehicles (ROVs) and Autonomous Underwater Vehicles (AUVs). This tutorial will present three examples of processing deep ocean AUV surveys collecting 1-meter-scale multibeam bathymetry. We will particularly focus on the MB-System approach to adjusting realtime inertial navigation by matching features in overlapping and crossing swathes.
+
+The MB-System website is at:
+	https://www.mbari.org/technology/mb-system/
+
+**Bring your laptop with MB-System installed, if possible, and bring a 3-button mouse. We will have two spare computers available with MB-System installed for those without MB-System on their own computer to share.**
 
 **Sample Datasets**
 We have prepared three sample datasets composed of 400 kHz multibeam data collected during AUV surveys. Each has been compressed into a single zip file that unpacks into multiple subdirectories with both raw and fully processed example data. These are available from a Google Drive through a link given below.
