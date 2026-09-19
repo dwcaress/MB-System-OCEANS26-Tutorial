@@ -36,10 +36,16 @@ For assistance and advice you can join the MB-System User Discussion List
 Google Drive links to sample datasets:
 
    MBARI Mapping AUV: https://drive.google.com/file/d/1CDTsTMylS65rSRw-CFSSERe5OI6uDhV4/view?usp=share_link
+   <img width="4142" height="4121" alt="ZTopoSlopeNav" src="https://github.com/user-attachments/assets/60a0e48e-5850-4af7-b898-cc2b3c6f15e6" />
 
-   SOI Hugin AUV The Childlike Empress: [https://drive.google.com/file/d/1CDTsTMylS65rSRw-CFSSERe5OI6uDhV4/view?usp=share_link](https://drive.google.com/file/d/1C2nRKUOSCnvYjAXJ3ZqBYVTDAlEtQWH6/view?usp=share_link)
+
+
+   SOI Hugin AUV The Childlike Empress: https://drive.google.com/file/d/1CDTsTMylS65rSRw-CFSSERe5OI6uDhV4/view?usp=share_link
+   
+
 
    WHOI AUV Sentry: https://drive.google.com/file/d/1-CJXv0o50TdJhlDW5lKZfWQa2Vfuh-rL/view?usp=share_link
+
 Presenters:
 
 - [Jennifer Paduan](https://www.mbari.org/person/jennifer-b-paduan/), Senior Research Specialist, [Seafloor Mapping Team](https://www.mbari.org/technology/seafloor-mapping/), MBARI
