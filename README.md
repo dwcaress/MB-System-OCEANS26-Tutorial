@@ -37,7 +37,7 @@ For assistance and advice you can join the MB-System User Discussion List
 
 **Bring your laptop with MB-System installed, if possible, and bring a 3-button mouse. We will have two spare computers available with MB-System installed for those without MB-System on their own computer to share.**
 
-Google Drive links to sample datasets:
+**Google Drive links to sample datasets:**
 
    MBARI Mapping AUV: https://drive.google.com/file/d/1CDTsTMylS65rSRw-CFSSERe5OI6uDhV4/view?usp=share_link
    
