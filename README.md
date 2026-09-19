@@ -36,21 +36,10 @@ For assistance and advice you can join the MB-System User Discussion List
 Google Drive links to sample datasets:
 
    MBARI Mapping AUV: https://drive.google.com/file/d/1CDTsTMylS65rSRw-CFSSERe5OI6uDhV4/view?usp=share_link
-Teledyne T50 400 kHz multibeam data collected on a Monterey Bay Aquarium Research Institute (MBARI) Dorado class Autonomous Underwater Vehicle (AUV) during expedition SO318 on FS Sonne offshore Southern California on March 8, 2026. The Dorado Mapping AUVs were designed, built, and are operated by MBARI. These data do not encompass the entire survey, and do not include sidescan and subbottom profiler data also collected during the mission.
 
-SO318 was led by Chief Scientist Gerhard Bohrmann of MARUM at the University of Bremen in Bremen Germany. The expedition report can be accessed at:
-	https://doi.org/10.48433/cr_so318
+   SOI Hugin AUV The Childlike Empress: [https://drive.google.com/file/d/1CDTsTMylS65rSRw-CFSSERe5OI6uDhV4/view?usp=share_link](https://drive.google.com/file/d/1C2nRKUOSCnvYjAXJ3ZqBYVTDAlEtQWH6/view?usp=share_link)
 
-There are three subdirectories:
-	raw/ - Raw logged multibeam data and example MB-System processing workflow in the file process.cmd
-	proc/ - Complete package of processed data
-	MissionPlanning/ - ship multibeam bathymetry grid used for mission planning, the MB-System route file defining the survey mission, and a script file mission.cmd used to generate a Dorado AUV survey mission.
-
-
-This repository hosts files to be used during the MB-System tutorial presented at the OCEANS 2026 Conference in Monterey, California, United States on September 21, 2026. 
-
-The MB-System workflows we use to process and display seafloor multibeam survey data will be discussed using scripts we have developed for three different Autonomous Underwater Vehicles (AUVs): an MBARI operated Dorado class AUV mapping with a Teledyne T-50 400 kHz sonar, the WHOI operated vehicle AUV _Sentry_, and the Schmidt Ocean Institute operated Hugin AUV _The Childlike Empress_ mapping with a Kongsberg EM2040 sonar. Some of the MB-System programs will be demonstrated and participants can practice during the class. Example data for the tutorial will include survey data and processing scripts for each of the three vehicles...please stay tuned; they will all be available for download here by about 18 September!
-
+   WHOI AUV Sentry: https://drive.google.com/file/d/1-CJXv0o50TdJhlDW5lKZfWQa2Vfuh-rL/view?usp=share_link
 Presenters:
 
 - [Jennifer Paduan](https://www.mbari.org/person/jennifer-b-paduan/), Senior Research Specialist, [Seafloor Mapping Team](https://www.mbari.org/technology/seafloor-mapping/), MBARI
